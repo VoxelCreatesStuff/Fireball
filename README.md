@@ -1,6 +1,2 @@
-# TTT FIREBALL - Traitor Weapon
-
-
-
-
+# TTT Fireball - Traitor Weapon
 
